@@ -1,6 +1,6 @@
 # Final-Project
-**Final Project
-This was a project that was worked on in class with a group, while this was a group project I have removed the parts of it that I didn't work on and it in now way obscures the flow of the project or included presentation. 
+
+This is a project that was worked on in class with a group, while this was a group project I have removed the parts of it that I didn't work on and it in no way obscures the flow of the project or included presentation. 
 
 This project consisted of three parts 
 Part 1, was Red team oriented and focused on finding vulnerabilities to exploit, exploiting those vulnerabilities and retrieving hidden flags.
